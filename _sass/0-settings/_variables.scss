@@ -15,7 +15,7 @@ $global-transition: all .35s;
 // *****************
 // Color Variables
 // *****************
-$brand-color: #C500CC;
+$brand-color: #f6b141;
 $dark: #393e46;
 $gray: #bbbbbb;
 $light-gray: #e6eef0;
@@ -23,20 +23,20 @@ $white: #ffffff;
 $black: #000000;
 
 // Background Colors
-$background-color: $dark;
+$background-color: $white;
 
 // Body Color
-$text-color: $white;
+$text-color: $dark;
 
 // Headings
-$heading-font-color: $white;
+$heading-font-color: $dark;
 
 // Links
 $link-color: $brand-color;
-$link-color-hover: darken($white, 15%);
+$link-color-hover: darken($dark, 15%);
 
 // Button
-$button-color: $dark;
+$button-color: $white;
 $button-background-color: $brand-color;
 
 // Border

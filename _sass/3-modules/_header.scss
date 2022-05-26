@@ -58,7 +58,7 @@
     text-align: right;
     cursor: pointer;
     &:hover {
-      color: $black;
+      color: $white;
     }
   }
 
@@ -79,9 +79,9 @@
         font-weight: 700;
         letter-spacing: 0.5px;
         text-transform: uppercase;
-        color: $dark;
+        color: $light-gray;
         &:hover {
-          color: $black;
+          color: $white;
         }
       }
     }

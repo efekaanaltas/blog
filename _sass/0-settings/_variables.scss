@@ -15,7 +15,7 @@ $global-transition: all .35s;
 // *****************
 // Color Variables
 // *****************
-$brand-color: #f6b141;
+$brand-color: #C500CC;
 $dark: #393e46;
 $gray: #bbbbbb;
 $light-gray: #e6eef0;
@@ -23,13 +23,13 @@ $white: #ffffff;
 $black: #000000;
 
 // Background Colors
-$background-color: $white;
+$background-color: $dark;
 
 // Body Color
-$text-color: $dark;
+$text-color: $white;
 
 // Headings
-$heading-font-color: $dark;
+$heading-font-color: $white;
 
 // Links
 $link-color: $brand-color;

@@ -31,7 +31,7 @@
     margin-left: -10%;
     z-index: 1;
     border-radius: 3px;
-    background: rgba(255, 255, 255, 0.98);
+    background: rgba(255, 255, 255, 0);
     box-shadow: 0 1px 4px rgba(0,0,0,0.15);
 
     .article__tag {
@@ -44,7 +44,7 @@
     .article__title {
       margin-bottom: 20px;
       font-size: 30px;
-      
+      color: $light-gray;
       a {
         color: $dark;
         &:hover {
@@ -57,6 +57,7 @@
       margin-bottom: 20px;
       font-size: 16px;
       line-height: 26px;
+      color: $white;
     }
 
     .article__meta {

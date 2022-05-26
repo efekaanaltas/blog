@@ -27,7 +27,7 @@ body {
 }
 
 *::selection {
-  color: $white;
+  color: $black;
   background-color: $dark;
 }
 
@@ -102,7 +102,7 @@ img,
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    color: $gray;
+    color: $light-gray;
   }
 }
 
@@ -123,5 +123,5 @@ hr {
   height: 1px;
   margin: 40px 0;
   border: 0;
-  background: $light-gray;
+  background: $gray;
 }

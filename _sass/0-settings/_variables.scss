@@ -17,13 +17,13 @@ $global-transition: all .35s;
 // *****************
 $brand-color: #f6b141;
 $dark: #393e46;
-$gray: #bbbbbb;
-$light-gray: #e6eef0;
-$white: #ffffff;
-$black: #000000;
+$light-gray: #bbbbbb;
+$gray: #e6eef0;
+$black: #ffffff;
+$white: #000000;
 
 // Background Colors
-$background-color: $white;
+$background-color: $black;
 
 // Body Color
 $text-color: $dark;
@@ -36,11 +36,11 @@ $link-color: $brand-color;
 $link-color-hover: darken($dark, 15%);
 
 // Button
-$button-color: $white;
+$button-color: $black;
 $button-background-color: $brand-color;
 
 // Border
-$border-color: $light-gray;
+$border-color: $gray;
 
 
 // *****************

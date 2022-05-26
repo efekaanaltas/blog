@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkımda
+permalink: /hakkimda/
 image: 01.jpg
 ---
 
@@ -9,7 +9,7 @@ Hi, my name is Alex Rodriguez. I like being at the center of events, being free 
 
 ***
 
-#### Austin scenester...
+#### Garip Zeycan Yıldırım Fen Lisesi (Samsun)
 <small>2008 - 2018</small>
 
 Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.

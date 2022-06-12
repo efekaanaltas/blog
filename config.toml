@@ -1,4 +1,0 @@
-baseURL = 'http://efekaanaltasgithub.io/blog/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "PaperMod"
